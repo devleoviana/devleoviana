@@ -1,6 +1,6 @@
 <h2>Leonardo Viana</h2>
 
-Me chamo Leonardo, tenho 22 anos e sou de São Paulo, formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estou sempre na busca de aprimorar e expandir meu conhecimento.
+Me chamo Leonardo Viana, tenho 22 anos e sou de São Paulo, formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estou sempre na busca de aprimorar e expandir meu conhecimento.
 
 - 🔭 Procuro trabalho na área
 - 🌱 Estundante de Java
