@@ -1,16 +1,14 @@
-<h2>Leonardo Viana</h2>
+<h2>Hi, my name is Leonardo</h2>
 
-Me chamo Leonardo Viana, tenho 22 anos e sou de São Paulo, formado em Análise e Desenvolvimento de Sistemas, atualmente cursando Engenharia de Software, apaixonado por tecnologia e estou sempre na busca de aprimorar e expandir meu conhecimento.
-
-- 🔭 Procuro trabalho na área de desenvolvimento
-- 🌱 Desenvolvedor Java em formação
-- 📫 Contate-me no email: dev.leonardoviana@gmail.com
+- 🔭 I'm looking for an internship in the development area
+- 🌱 Java Student (Future Java Developer)
+- 📫 Contact me by email: dev.leonardoviana@gmail.com
 
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
