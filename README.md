@@ -1,8 +1,8 @@
-<h2>Hi, my name is Leonardo</h2>
+<h2>👨🏻‍💻 Leonardo Viana da Silva</h2>
 
-- 🔭 I'm looking for an internship in the development area
-- 🌱 Java Student (Future Java Developer)
-- 📫 Contact me by email: dev.leonardoviana@gmail.com
+Studying Bachelor's Degree in Software Engineering
+
+Reach me out here: dev.leonardoviana@gmail.com
 
 </p>
 
