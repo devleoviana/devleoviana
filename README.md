@@ -1,8 +1,8 @@
 <h2>👨🏻‍💻 Leonardo Viana da Silva</h2>
 
-<h2>Studying Bachelor's Degree in Software Engineering</h2>
+Studying Bachelor's Degree in Software Engineering
 
-<h2>Reach me out here: dev.leonardoviana@gmail.com</h2>
+Reach me out here: dev.leonardoviana@gmail.com
 
 </p>
 
