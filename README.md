@@ -5,7 +5,6 @@
 ###
 
 - 🎓 Graduated in **Systems Analysis and Development**
-- 📚 Currently studying **Information Systems**
 - 💻 Passionate about building **backend applications** with Java and Spring Boot
 - 🌱 Always learning and improving my skills one commit at a time
 
