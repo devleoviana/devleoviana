@@ -1,46 +1,46 @@
-<h2 align="left">👨🏻‍💻 Leonardo Viana da Silva</h2>
+👨🏻‍💻 Leonardo Viana da Silva
 
+🎓 Graduated in Systems Analysis and Development.
 
+💻 Focused on Backend Development, building applications and REST APIs.
 
-###
+🐍 Currently deepening my knowledge of Python, while maintaining experience with Java and Spring Boot.
 
-- 🎓 Graduated in **Systems Analysis and Development**
-- 💻 Passionate about building **backend applications** with Java and Spring Boot
-- 🌱 Always learning and improving my skills one commit at a time
+🌱 Always learning and improving through practical projects.
 
-📫 Contact-me:
- dev.leonardoviana@gmail.com
+📫 Contact: dev.leonardoviana@gmail.com
 
-###
+🛠️ Technologies & Tools
 
-### 🤖 Languages and Technologies
+Programming Languages
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
 </div>
 
-###
+Frameworks & Technologies
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/devleoviana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
 </div>
 
-###
+Infrastructure & Tools
 
-<br clear="both">
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
+</div>
+
+🔗 Connect with me
+
+<a href="https://www.linkedin.com/in/devleoviana/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <img src="https://raw.githubusercontent.com/devleoviana/devleoviana/output/snake.svg" alt="Snake animation" />
-
-###
